@@ -1,5 +1,9 @@
 # BMI-Calculator
 
+Live: https://bmi-calculator-assign.netlify.app/
+
+GitHub Repo: https://github.com/smahaduzzaman/bmi-calculator
+
 Build a BMI Calculator using JavaScript and deploy it to Netlify
 
 ## Part 1: Building the BMI Calculator
